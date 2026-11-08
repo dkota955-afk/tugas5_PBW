@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Katalog Sepatu Langkah</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <header>
+        <h1>Toko Sepatu Langkah</h1>
+        <p>Temukan Sepatu Favoritmu!</p>
+    </header>
+
+    <h2>Katalog Produk</h2>
+
+    <div class="container">
+
+        <div class="produk">
+            <img src="https://www.footstepfootwear.com/wp-content/uploads/2021/11/Fonte-White-1.jpg" alt="Sepatu Sneakers">
+            <h3>Sepatu Sneakers</h3>
+            <p>Rp150.000</p>
+        </div>
+
+        <div class="produk">
+            <img src="https://down-id.img.susercontent.com/file/id-11134207-7rasc-m2s09qfllidbb2" alt="Sepatu Olahraga">
+            <h3>Sepatu Olahraga</h3>
+            <p>Rp200.000</p>
+        </div>
+
+        <div class="produk">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5bb9DoZJcvOWGBT6lZSWZF5o0oOK4sOBj5gnWJK5dyoubJlvC4iY6iOA&s=10" alt="Sepatu Formal">
+            <h3>Sepatu Formal</h3>
+            <p>Rp180.000</p>
+        </div>
+
+        <div class="produk">
+            <img src="https://www.footstepfootwear.com/wp-content/uploads/2019/06/10.jpg" alt="Sepatu Casual">
+            <h3>Sepatu Casual</h3>
+            <p>Rp130.000</p>
+        </div>
+
+        <div class="produk">
+            <img src="https://www.footstepfootwear.com/wp-content/uploads/2023/10/2-24.jpg" alt="Sepatu Boots">
+            <h3>Sepatu Boots</h3>
+            <p>Rp250.000</p>
+        </div>
+
+        <div class="produk">
+            <img src="https://contents.mediadecathlon.com/p2394163/k$52a7f228ec98b2067049824ca4311ea2/sepatu-slip-on-jalan-sehat-pria-pw-160-hitam-decathlon-8774141.jpg?f=1920x0&format=auto" alt="Sepatu Slip On">
+            <h3>Sepatu Slip On</h3>
+            <p>Rp120.000</p>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Toko Sepatu Langkah</p>
+    </footer>
+
+</body>
+</html>
